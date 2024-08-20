@@ -40,7 +40,7 @@ export const Single = props => {
 							</div>
 					</div>
 					</div>
-					<Link to="/home">
+					<Link to="/">
 						<span className="btn btn-success btn-lg" href="#" role="button">
 							Home
 						</span>

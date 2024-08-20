@@ -61,7 +61,7 @@ export const Protected = () => {
           ))}
         </ul>
       </div>
-      <Link to="/home">
+      <Link to="/">
         <button className="btn btn-warning" onClick={() => actions.logout()}>
           Logout
         </button>

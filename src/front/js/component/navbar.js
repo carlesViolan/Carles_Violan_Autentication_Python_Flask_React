@@ -6,7 +6,7 @@ export const Navbar = () => {
 	return (
 		<nav className="navbar navbar-light bg-light">
 			<div className="container">
-				<Link to="/home">
+				<Link to="/">
 					<span className="navbar-brand mb-0 h1"><img src={logoSW}/></span>
 				</Link>
 				{/* <div className="ml-auto">
